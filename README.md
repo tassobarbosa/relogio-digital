@@ -6,3 +6,4 @@
 
 - Todas as bibliotecas, bem como o código em si são open source e para reproduzilos somente é preciso verificar se os pinos estão conectados corretamente ou modifica-los diretamente nas bibliotecas.
 
+![alt text](https://github.com/tassobarbosa/relogio-digital/blob/master/esquematico-relogio.PNG)
